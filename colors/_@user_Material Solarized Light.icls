@@ -4,7 +4,7 @@
     <property name="created">2019-11-12T22:33:18</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.2.4.0.0</property>
-    <property name="modified">2019-12-21T19:49:33</property>
+    <property name="modified">2020-02-16T01:39:04</property>
     <property name="originalScheme">Material Solarized Light</property>
   </metaInfo>
   <console-font>
@@ -949,9 +949,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GO_FUNCTION_PARAMETER">
       <value />
     </option>
@@ -963,7 +960,6 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="GROOVY_KEYWORD" baseAttributes="JAVA_KEYWORD" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
@@ -1123,14 +1119,11 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="Implicit conversion" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="Instance property reference ID" baseAttributes="INSTANCE_FIELD_ATTRIBUTES" />
     <option name="Integer literal">
       <value>
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
-    <option name="Interpolated String Injection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Invalid escape in string">
       <value>
         <option name="FOREGROUND" value="d43780" />
@@ -1545,7 +1538,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="Local lazy val/var">
       <value>
         <option name="FOREGROUND" value="2aa198" />
@@ -3247,7 +3239,6 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="Static property reference ID" baseAttributes="STATIC_FINAL_FIELD_ATTRIBUTES" />
     <option name="TEA.BADCHARACTER">
       <value>
         <option name="FOREGROUND" value="ede7d4" />
@@ -3397,7 +3388,6 @@
         <option name="BACKGROUND" value="dc322f" />
       </value>
     </option>
-    <option name="Unresolved reference access" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Valid escape in string">
       <value>
         <option name="FOREGROUND" value="d43780" />
