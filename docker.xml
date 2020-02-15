@@ -1,5 +1,6 @@
 <application>
   <component name="DockerSettings">
-    <option name="dockerComposePath" value="/usr/local/bin/docker-compose" />
+    <option name="dockerComposePath" value="C:\ProgramData\chocolatey\lib\docker-compose\tools\docker-compose.exe" />
+    <option name="dockerMachinePath" value="C:\ProgramData\chocolatey\lib\docker-machine\bin\docker-machine.exe" />
   </component>
 </application>
