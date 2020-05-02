@@ -39,6 +39,9 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -47,20 +50,11 @@
       <file name="/postgres.public.merchandise" timestamp="1588432110829">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588429596496">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/php/Dockerfile" timestamp="1581800978889">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="33" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="/console" timestamp="1581801364843">
+      <file name="/Dummy.txt" timestamp="1588440110445">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Entity/Merchandise.php" timestamp="1583028674907">
         <mark key="[" line="57" column="35" />
@@ -73,6 +67,12 @@
         <mark key="]" line="12" column="28" />
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="22" />
+      </file>
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/docker-compose.yml" timestamp="1588440279040">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="41" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/Price.php" timestamp="1583028027326">
         <mark key="[" line="8" column="0" />
@@ -95,6 +95,11 @@
       <file name="/merchandise [dev]" timestamp="1588432110693">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/.env.local" timestamp="1588440168725">
+        <mark key="'" line="0" column="27" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/IncludesTax.php" timestamp="1583028028662">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="33" column="5" />
@@ -110,14 +115,16 @@
       <file name="/" timestamp="1588429246474">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/.env.local" timestamp="1588440170081">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/ExcludesTax.php" timestamp="1583028085700">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="36" />
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
-      </file>
-      <file name="/a.sql" timestamp="1581801350372">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1588432110905">
         <mark key="[" line="0" column="0" />
@@ -160,45 +167,46 @@
       <jump line="9" column="0" filename="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/BuyingPrice.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/BuyingPrice.php" />
       <jump line="0" column="43" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/.env" />
+      <jump line="0" column="27" filename="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/.env.local" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
       </register>
       <register name="-" type="4">
         <text>IncludesTax</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBpbnQgJGFtb3VudDsKCiAgICAvKioKICAgICAqIFByaWNlIGNvbnN0cnVjdG9yLgogICAgICoKICAgICAqIEBwYXJhbSBpbnQgJGFtb3VudAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoaW50ICRhbW91bnQpCiAgICB7CiAgICAgICAgXGFzc2VydCgwIDw9ICRhbW91bnQpOwoKICAgICAgICAkdGhpcy0+YW1vdW50ID0gJGFtb3VudDsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gaW50CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRBbW91bnQoKTogaW50CiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5hbW91bnQ7CiAgICB9Cg==</text>
+        <text>REDIS_URL=redis://redis:6379</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
       </register>
-      <register name="2" type="2">
-        <text>added entities e.g. shop, merchandise...dd</text>
+      <register name="2" type="8">
+        <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZSBJbmNsdWRlVGF4Owo=</text>
+        <text>extension=redis.sodd</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvLyCCsYKkgqKCpINDg4GBW4NXCiAgICBwdWJsaWMgZnVuY3Rpb24gd2l0aFRheCgpOiBUYXhQcmljZQogICAgewogICAgfQo=</text>
+        <text>whats this</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text>[wip] added some entitiesdd</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ2xhc3MgQnV5aW5nUHJpY2UKICogQHBhY2thZ2UgQXBwXFByaWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcUHJvZHVjdDsKCg==</text>
+        <text>added entities e.g. shop, merchandise...dd</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHVzZSBJbmNsdWRlVGF4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvLyCCsYKkgqKCpINDg4GBW4NXCiAgICBwdWJsaWMgZnVuY3Rpb24gd2l0aFRheCgpOiBUYXhQcmljZQogICAgewogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
