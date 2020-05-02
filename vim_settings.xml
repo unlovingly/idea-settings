@@ -9,8 +9,8 @@
         <entry>qa</entry>
         <entry>]w</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,6 +128,13 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/.env" timestamp="1588437286468">
+        <mark key="'" line="0" column="43" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/UseCase/Shop/RegisterMerchandise.php" timestamp="1581805073563">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="9" column="1" />
@@ -151,6 +158,7 @@
       <jump line="10" column="0" filename="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/UseCase/Shop/RegisterMerchandise.php" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/BuyingPrice.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/BuyingPrice.php" />
+      <jump line="0" column="43" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/.env" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -192,7 +200,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
