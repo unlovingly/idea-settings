@@ -48,11 +48,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586017721427">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="/Dummy.txt" timestamp="1588429596496">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/php/Dockerfile" timestamp="1581800978889">
         <mark key="[" line="14" column="0" />
@@ -109,6 +109,9 @@
       <file name="/publisher [dev]" timestamp="1581800474738">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/" timestamp="1588429246474">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/ExcludesTax.php" timestamp="1583028085700">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="36" />
@@ -117,11 +120,6 @@
       </file>
       <file name="/a.sql" timestamp="1581801350372">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Entity/Publisher.php" timestamp="1581799844470">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1581800580595">
         <mark key="[" line="0" column="0" />
