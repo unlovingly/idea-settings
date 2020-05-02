@@ -46,6 +46,37 @@
       <file name="/postgres.public.merchandise" timestamp="1588432110829">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/console" timestamp="1581801364843">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/Price.php" timestamp="1583028027326">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/IncludesTax.php" timestamp="1583028028662">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="33" column="5" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/a.sql" timestamp="1581801350372">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/BuyingPrice.php" timestamp="1583027967709">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/UseCase/Shop/RegisterMerchandise.php" timestamp="1581805073563">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="10" column="63" />
+        <mark key="^" line="10" column="63" />
+        <mark key="." line="10" column="63" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588429596496">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="25" />
@@ -64,9 +95,6 @@
         <mark key="." line="57" column="45" />
         <mark key="^" line="57" column="45" />
       </file>
-      <file name="/console" timestamp="1581801364843">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/IncludeTax.php" timestamp="1582802123412">
         <mark key="[" line="12" column="28" />
         <mark key="]" line="12" column="28" />
@@ -79,12 +107,6 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/Price.php" timestamp="1583028027326">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="28" column="5" />
-        <mark key="." line="6" column="4" />
-        <mark key="^" line="6" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/UseCase/LikeEntity/PotentialMerchandise.php" timestamp="1581805013218">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="22" />
@@ -94,23 +116,15 @@
       <file name="/merchandise [dev]" timestamp="1588432110693">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/IncludesTax.php" timestamp="1583028028662">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="33" column="5" />
-        <mark key="^" line="11" column="22" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="/" timestamp="1588429246474">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/composer.json" timestamp="1588435273671" />
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/ExcludesTax.php" timestamp="1583028085700">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="36" />
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
-      </file>
-      <file name="/a.sql" timestamp="1581801350372">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1581800580595">
         <mark key="[" line="0" column="0" />
@@ -118,25 +132,7 @@
       <file name="/foo.bar" timestamp="1588432110905">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/BuyingPrice.php" timestamp="1583027967709">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="/postgres.public.publisher" timestamp="1581800474818">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/UseCase/Shop/RegisterMerchandise.php" timestamp="1581805073563">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="10" column="63" />
-        <mark key="^" line="10" column="63" />
-        <mark key="." line="10" column="63" />
-      </file>
-      <file name="/dummy.sql" timestamp="1581800572396">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log.composerLog" timestamp="1588435392305" />
     </filemarks>
     <jumps>
       <jump line="28" column="0" filename="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/config/services.yaml" />
