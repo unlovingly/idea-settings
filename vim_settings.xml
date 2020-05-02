@@ -10,6 +10,7 @@
         <entry>]w</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -155,7 +156,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>added entities e.g. shop, merchandise...dd</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>IncludesTax</text>
@@ -164,34 +165,34 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCBpbnQgJGFtb3VudDsKCiAgICAvKioKICAgICAqIFByaWNlIGNvbnN0cnVjdG9yLgogICAgICoKICAgICAqIEBwYXJhbSBpbnQgJGFtb3VudAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoaW50ICRhbW91bnQpCiAgICB7CiAgICAgICAgXGFzc2VydCgwIDw9ICRhbW91bnQpOwoKICAgICAgICAkdGhpcy0+YW1vdW50ID0gJGFtb3VudDsKICAgIH0KCiAgICAvKioKICAgICAqIEByZXR1cm4gaW50CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRBbW91bnQoKTogaW50CiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5hbW91bnQ7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>added entities e.g. shop, merchandise...dd</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVzZSBJbmNsdWRlVGF4Owo=</text>
+        <text>added entities e.g. shop, merchandise...dd</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAvLyCCsYKkgqKCpINDg4GBW4NXCiAgICBwdWJsaWMgZnVuY3Rpb24gd2l0aFRheCgpOiBUYXhQcmljZQogICAgewogICAgfQo=</text>
+        <text encoding="base64">ICAgIHVzZSBJbmNsdWRlVGF4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAvLyCCsYKkgqKCpINDg4GBW4NXCiAgICBwdWJsaWMgZnVuY3Rpb24gd2l0aFRheCgpOiBUYXhQcmljZQogICAgewogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQ2xhc3MgQnV5aW5nUHJpY2UKICogQHBhY2thZ2UgQXBwXFByaWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcUHJvZHVjdDsKCg==</text>
+        <text encoding="base64">ICogQ2xhc3MgQnV5aW5nUHJpY2UKICogQHBhY2thZ2UgQXBwXFByaWNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgIH0K</text>
+        <text encoding="base64">dXNlIEFwcFxFbnRpdHlcUHJvZHVjdDsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgcHVibGljIGZ1bmN0aW9uIF9fY29uc3RydWN0KCkKICAgIHsKICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
