@@ -42,6 +42,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -68,11 +71,10 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/docker-compose.yml" timestamp="1588443292194">
-        <mark key="[" line="30" column="6" />
-        <mark key="]" line="30" column="7" />
-        <mark key="^" line="30" column="7" />
-        <mark key="." line="30" column="6" />
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/docker-compose.yml" timestamp="1588444800601">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/Price.php" timestamp="1583028027326">
         <mark key="[" line="8" column="0" />
@@ -169,40 +171,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
+        <text encoding="base64">ICAgIGNvbW1hbmQ6Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>IncludesTax</text>
+        <text>/default.conf</text>
       </register>
       <register name="0" type="2">
         <text>REDIS_URL=redis://redis:6379</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbW1hbmQ6Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text />
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text>extension=redis.sodd</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text>whats this</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text>[wip] added some entitiesdd</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text>added entities e.g. shop, merchandise...dd</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZSBJbmNsdWRlVGF4Owo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvLyCCsYKkgqKCpINDg4GBW4NXCiAgICBwdWJsaWMgZnVuY3Rpb24gd2l0aFRheCgpOiBUYXhQcmljZQogICAgewogICAgfQo=</text>
+        <text encoding="base64">ICAgIHVzZSBJbmNsdWRlVGF4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
