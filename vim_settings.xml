@@ -53,7 +53,7 @@
       <file name="/postgres.public.merchandise" timestamp="1588432110829">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588440110445">
+      <file name="/Dummy.txt" timestamp="1588520299928">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -108,7 +108,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/" timestamp="1588429246474">
+      <file name="/" timestamp="1588521277255">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/.env.local" timestamp="1588440170081">
@@ -131,19 +131,19 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/docker-compose.yml" timestamp="1588520576941">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log.composerLog" timestamp="1588521152742" />
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/.env" timestamp="1588437286468">
         <mark key="'" line="0" column="43" />
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="44" />
         <mark key="^" line="0" column="44" />
         <mark key="." line="0" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/UseCase/Shop/RegisterMerchandise.php" timestamp="1581805073563">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="9" column="1" />
-        <mark key="]" line="10" column="63" />
-        <mark key="^" line="10" column="63" />
-        <mark key="." line="10" column="63" />
       </file>
       <file name="/Dummy.json" timestamp="1588443304864">
         <mark key="[" line="0" column="0" />
@@ -171,7 +171,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
       </register>
       <register name="-" type="4">
         <text>/default.conf</text>
@@ -180,31 +180,31 @@
         <text>REDIS_URL=redis://redis:6379</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbW1hbmQ6Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
+      </register>
+      <register name="4" type="8">
         <text />
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text>extension=redis.sodd</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text>whats this</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text>[wip] added some entitiesdd</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text>added entities e.g. shop, merchandise...dd</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZSBJbmNsdWRlVGF4Owo=</text>
+        <text>added entities e.g. shop, merchandise...dd</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

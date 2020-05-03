@@ -4,7 +4,12 @@
       <configuration>
         <option name="apiUrl" value="tcp://localhost:2375" />
         <option name="pathMappings">
-          <list />
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="L:\home\u8y\Documents" />
+              <option name="virtualMachinePath" value="/mnt/c/Users/unlovingly/Documents" />
+            </DockerPathMappingImpl>
+          </list>
         </option>
       </configuration>
     </remote-server>
