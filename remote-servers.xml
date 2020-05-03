@@ -2,14 +2,9 @@
   <component name="RemoteServers">
     <remote-server name="Docker" type="docker">
       <configuration>
-        <option name="apiUrl" value="tcp://localhost:2375" />
+        <option name="apiUrl" value="tcp://localhost:4243" />
         <option name="pathMappings">
-          <list>
-            <DockerPathMappingImpl>
-              <option name="localPath" value="L:\home\u8y\documents" />
-              <option name="virtualMachinePath" value="/host_mnt/uC/wsl$/Arch/home/u8y/documents" />
-            </DockerPathMappingImpl>
-          </list>
+          <list />
         </option>
       </configuration>
     </remote-server>
