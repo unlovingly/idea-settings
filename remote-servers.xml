@@ -6,8 +6,8 @@
         <option name="pathMappings">
           <list>
             <DockerPathMappingImpl>
-              <option name="localPath" value="L:\home\u8y\Documents" />
-              <option name="virtualMachinePath" value="/mnt/c/Users/unlovingly/Documents" />
+              <option name="localPath" value="L:\home\u8y\documents" />
+              <option name="virtualMachinePath" value="/host_mnt/uC/wsl$/Arch/home/u8y/documents" />
             </DockerPathMappingImpl>
           </list>
         </option>

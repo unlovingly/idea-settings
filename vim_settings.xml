@@ -71,10 +71,11 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/docker-compose.yml" timestamp="1588444800601">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/docker-compose.yml" timestamp="1588521718134">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="7" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/Price.php" timestamp="1583028027326">
         <mark key="[" line="8" column="0" />
@@ -108,7 +109,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/" timestamp="1588521277255">
+      <file name="/" timestamp="1588521620886">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/.env.local" timestamp="1588440170081">
@@ -183,28 +184,28 @@
         <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbW1hbmQ6Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
+      </register>
+      <register name="5" type="8">
         <text />
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text>extension=redis.sodd</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text>whats this</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text>[wip] added some entitiesdd</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text>added entities e.g. shop, merchandise...dd</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
