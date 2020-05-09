@@ -45,6 +45,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -71,10 +74,10 @@
         <mark key="." line="12" column="28" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/docker-compose.yml" timestamp="1588521718134">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/docker-compose.yml" timestamp="1589029036506">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
         <mark key="^" line="7" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/Price.php" timestamp="1583028027326">
@@ -82,12 +85,6 @@
         <mark key="]" line="28" column="5" />
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Entity/Price.php" timestamp="1581890026652">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="13" />
       </file>
       <file name="/merchandise [dev]" timestamp="1588432110693">
         <mark key="[" line="0" column="0" />
@@ -117,6 +114,7 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/composer.json" timestamp="1589029912908" />
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/ExcludesTax.php" timestamp="1583028085700">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="36" />
@@ -138,7 +136,6 @@
         <mark key="^" line="7" column="41" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log.composerLog" timestamp="1588521152742" />
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/.env" timestamp="1588437286468">
         <mark key="'" line="0" column="43" />
         <mark key="[" line="0" column="10" />
@@ -167,45 +164,46 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/BuyingPrice.php" />
       <jump line="0" column="43" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/.env" />
       <jump line="0" column="27" filename="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/.env.local" />
+      <jump line="10" column="28" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/composer.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
+      <register name="&quot;" type="4">
+        <text>5.1.0-b1</text>
       </register>
       <register name="-" type="4">
-        <text>/default.conf</text>
+        <text>5.1.0-b1</text>
       </register>
       <register name="0" type="2">
         <text>REDIS_URL=redis://redis:6379</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
+        <text encoding="base64">ICAgICAgLSAvdmFyL3d3dy9hcHAvdmFyCiAgICAgIC0gL3Zhci93d3cvYXBwL3ZlbmRvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
+        <text encoding="base64">ICAgICAgLSAvdmFyL3d3dy9hcHAvdmFyCiAgICAgIC0gL3Zhci93d3cvYXBwL3ZlbmRvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbW1hbmQ6Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
       </register>
-      <register name="5" type="8">
-        <text />
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbW1hbmQ6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>extension=redis.sodd</text>
+        <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
       </register>
-      <register name="7" type="2">
-        <text>whats this</text>
+      <register name="7" type="8">
+        <text />
       </register>
       <register name="8" type="2">
-        <text>[wip] added some entitiesdd</text>
+        <text>extension=redis.sodd</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>whats this</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
