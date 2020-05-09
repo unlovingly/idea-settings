@@ -48,6 +48,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -106,7 +109,7 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/" timestamp="1588521620886">
+      <file name="/" timestamp="1589030434374">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/.env.local" timestamp="1588440170081">
