@@ -51,6 +51,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -59,7 +62,7 @@
       <file name="/postgres.public.merchandise" timestamp="1588432110829">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589110284219">
+      <file name="/Dummy.txt" timestamp="1589112935055">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -71,11 +74,8 @@
         <mark key="." line="57" column="45" />
         <mark key="^" line="57" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/IncludeTax.php" timestamp="1582802123412">
-        <mark key="[" line="12" column="28" />
-        <mark key="]" line="12" column="28" />
-        <mark key="." line="12" column="28" />
-        <mark key="^" line="12" column="22" />
+      <file name="/console" timestamp="1589112239840">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/docker-compose.yml" timestamp="1589029036506">
         <mark key="[" line="10" column="0" />
@@ -126,11 +126,8 @@
       <file name="/foo.bar" timestamp="1588432110905">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/app/src/Price/BuyingPrice.php" timestamp="1583027967709">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="/a.sql" timestamp="1589112935035">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Repositories/github.com/unlovingly/amalgamber/docker-compose.yml" timestamp="1588520576941">
         <mark key="[" line="4" column="0" />
@@ -144,6 +141,12 @@
         <mark key="]" line="0" column="44" />
         <mark key="^" line="0" column="44" />
         <mark key="." line="0" column="43" />
+      </file>
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/.env" timestamp="1589112592425">
+        <mark key="[" line="27" column="13" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="17" />
+        <mark key="^" line="27" column="18" />
       </file>
       <file name="/Dummy.json" timestamp="1588443304864">
         <mark key="[" line="0" column="0" />
@@ -172,10 +175,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>5.1.0-b1</text>
+        <text>postgres</text>
       </register>
       <register name="-" type="4">
-        <text>5.1.0-b1</text>
+        <text>postgres</text>
       </register>
       <register name="0" type="2">
         <text>REDIS_URL=redis://redis:6379</text>

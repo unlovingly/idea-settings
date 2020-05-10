@@ -44,16 +44,6 @@
           </set>
         </value>
       </disabled-templates>
-      <disabled-templates provider="reactor-postfix-templates">
-        <value>
-          <set>
-            <option value="test" />
-            <option value="testN" />
-            <option value="toFlux" />
-            <option value="toMono" />
-          </set>
-        </value>
-      </disabled-templates>
     </option>
   </component>
 </application>
