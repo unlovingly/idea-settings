@@ -63,7 +63,7 @@
       <file name="/postgres.public.merchandise" timestamp="1589112945812">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589115870837">
+      <file name="/Dummy.txt" timestamp="1589559550618">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
@@ -72,11 +72,11 @@
       <file name="/console" timestamp="1589112239840">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/docker-compose.yml" timestamp="1589029036506">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="7" column="41" />
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/docker-compose.yml" timestamp="1589559670126">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="4" column="41" />
       </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/src/Entity/PublisherRepository.php" timestamp="1589553049779">
         <mark key="[" line="9" column="0" />
@@ -166,7 +166,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAvdmFyL3d3dy9hcHAvdmFyCiAgICAgIC0gL3Zhci93d3cvYXBwL3ZlbmRvcgo=</text>
       </register>
       <register name="-" type="4">
         <text>Price</text>
@@ -175,13 +175,13 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnQoMCA8PSAkcHJpY2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAvdmFyL3d3dy9hcHAvdmFyCiAgICAgIC0gL3Zhci93d3cvYXBwL3ZlbmRvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAvdmFyL3d3dy9hcHAvdmFyCiAgICAgIC0gL3Zhci93d3cvYXBwL3ZlbmRvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1aWxkOiAuL3BocAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -190,16 +190,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNlIEFwcFxQcmljZVxFeGNsdWRlc1RheDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBQcmljZQogICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgZ2V0QW1vdW50KCkgbWV0aG9kLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEFwcFxQcmljZVxFeGNsdWRlc1RheDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
