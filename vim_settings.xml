@@ -98,6 +98,12 @@
       <file name="/" timestamp="1589030434374">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/composer.json" timestamp="1590846063098">
+        <mark key="[" line="81" column="26" />
+        <mark key="]" line="81" column="27" />
+        <mark key="." line="81" column="26" />
+        <mark key="^" line="81" column="27" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log_3.composerLog" timestamp="1589633811119">
         <mark key="[" line="182" column="3" />
       </file>
@@ -174,11 +180,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSAvdmFyL3d3dy9hcHAvdmFyCiAgICAgIC0gL3Zhci93d3cvYXBwL3ZlbmRvcgo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Price</text>
+        <text>0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnQoMCA8PSAkcHJpY2UpOwo=</text>
