@@ -4,7 +4,9 @@
   </component>
   <component name="VimHistorySettings">
     <history>
-      <history-search />
+      <history-search>
+        <entry>error_log</entry>
+      </history-search>
       <history-cmd>
         <entry>]w</entry>
         <entry>q</entry>
@@ -64,13 +66,13 @@
       <file name="/postgres.public.merchandise" timestamp="1589112945812">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589559550618">
+      <file name="/Dummy.txt" timestamp="1591108555438">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="/console" timestamp="1589112239840">
+      <file name="/console" timestamp="1591108511900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/docker-compose.yml" timestamp="1590940354003">
@@ -78,6 +80,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="34" column="20" />
+      </file>
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/php/php.ini" timestamp="1591108251115">
+        <mark key="'" line="502" column="39" />
+        <mark key="[" line="583" column="0" />
+        <mark key="]" line="583" column="1" />
+        <mark key="^" line="583" column="1" />
+        <mark key="." line="583" column="0" />
       </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/src/Entity/PublisherRepository.php" timestamp="1589553049779">
         <mark key="[" line="9" column="0" />
@@ -97,10 +106,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/config/packages/dev/monolog.yaml" timestamp="1590940459508">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/config/packages/dev/monolog.yaml" timestamp="1591108452348">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="4" column="62" />
       </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/composer.json" timestamp="1590939291914">
         <mark key="'" line="0" column="0" />
@@ -122,7 +132,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1589112935035">
+      <file name="/a.sql" timestamp="1591108555419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1589112945875">
@@ -133,12 +143,6 @@
       </file>
       <file name="/merchandise [postgres@arch.wsl]" timestamp="1589112945793">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/.env" timestamp="1589112592425">
-        <mark key="[" line="27" column="13" />
-        <mark key="]" line="27" column="18" />
-        <mark key="." line="27" column="17" />
-        <mark key="^" line="27" column="18" />
       </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/src/Price/Currency.php" timestamp="1589115094336">
         <mark key="[" line="8" column="23" />
@@ -187,6 +191,9 @@
       <jump line="69" column="9" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/composer.json" />
       <jump line="0" column="0" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/composer.json" />
       <jump line="68" column="20" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/vendor/symfony/framework-bundle/Kernel/MicroKernelTrait.php" />
+      <jump line="13" column="40" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/php/php.ini" />
+      <jump line="493" column="62" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/php/php.ini" />
+      <jump line="502" column="39" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/php/php.ini" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -195,31 +202,31 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvLyBwcm90ZWN0ZWQgZnVuY3Rpb24gY29uZmlndXJlUm91dGVzKFJvdXRlQ29sbGVjdGlvbkJ1aWxkZXIgJHJvdXRlcyk6IHZvaWQKICAgIC8vIHsKICAgIC8vICAgICAkY29uZkRpciA9ICR0aGlzLT5nZXRQcm9qZWN0RGlyKCkuJy9jb25maWcnOwoKICAgIC8vICAgICAkcm91dGVzLT5pbXBvcnQoJGNvbmZEaXIuJy97cm91dGVzfS8nLiR0aGlzLT5lbnZpcm9ubWVudC4nLyonLnNlbGY6OkNPTkZJR19FWFRTLCAnLycsICdnbG9iJyk7CiAgICAvLyAgICAgJHJvdXRlcy0+aW1wb3J0KCRjb25mRGlyLicve3JvdXRlc30vKicuc2VsZjo6Q09ORklHX0VYVFMsICcvJywgJ2dsb2InKTsKICAgIC8vICAgICAkcm91dGVzLT5pbXBvcnQoJGNvbmZEaXIuJy97cm91dGVzfScuc2VsZjo6Q09ORklHX0VYVFMsICcvJywgJ2dsb2InKTsKICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3BhdGg6ICJwaHA6Ly9zdGRlcnIiCiAgICAgICAgICAgIHBhdGg6ICJwaHA6Ly9zdGRlcnIiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>lazy</text>
+        <text>#</text>
+      </register>
+      <register name="/" type="4">
+        <text>error_log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQoMCA8PSAkcHJpY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3BhdGg6ICJwaHA6Ly9zdGRlcnIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAvLyBwcm90ZWN0ZWQgZnVuY3Rpb24gY29uZmlndXJlUm91dGVzKFJvdXRlQ29sbGVjdGlvbkJ1aWxkZXIgJHJvdXRlcyk6IHZvaWQKICAgIC8vIHsKICAgIC8vICAgICAkY29uZkRpciA9ICR0aGlzLT5nZXRQcm9qZWN0RGlyKCkuJy9jb25maWcnOwoKICAgIC8vICAgICAkcm91dGVzLT5pbXBvcnQoJGNvbmZEaXIuJy97cm91dGVzfS8nLiR0aGlzLT5lbnZpcm9ubWVudC4nLyonLnNlbGY6OkNPTkZJR19FWFRTLCAnLycsICdnbG9iJyk7CiAgICAvLyAgICAgJHJvdXRlcy0+aW1wb3J0KCRjb25mRGlyLicve3JvdXRlc30vKicuc2VsZjo6Q09ORklHX0VYVFMsICcvJywgJ2dsb2InKTsKICAgIC8vICAgICAkcm91dGVzLT5pbXBvcnQoJGNvbmZEaXIuJy97cm91dGVzfScuc2VsZjo6Q09ORklHX0VYVFMsICcvJywgJ2dsb2InKTsKICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgI3BhdGg6ICJwaHA6Ly9zdGRlcnIiCiAgICAgICAgICAgIHBhdGg6ICJwaHA6Ly9zdGRlcnIiCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CiAgICAvLyBwcm90ZWN0ZWQgZnVuY3Rpb24gY29uZmlndXJlUm91dGVzKFJvdXRlQ29sbGVjdGlvbkJ1aWxkZXIgJHJvdXRlcyk6IHZvaWQKICAgIC8vIHsKICAgIC8vICAgICAkY29uZkRpciA9ICR0aGlzLT5nZXRQcm9qZWN0RGlyKCkuJy9jb25maWcnOwoKICAgIC8vICAgICAkcm91dGVzLT5pbXBvcnQoJGNvbmZEaXIuJy97cm91dGVzfS8nLiR0aGlzLT5lbnZpcm9ubWVudC4nLyonLnNlbGY6OkNPTkZJR19FWFRTLCAnLycsICdnbG9iJyk7CiAgICAvLyAgICAgJHJvdXRlcy0+aW1wb3J0KCRjb25mRGlyLicve3JvdXRlc30vKicuc2VsZjo6Q09ORklHX0VYVFMsICcvJywgJ2dsb2InKTsKICAgIC8vICAgICAkcm91dGVzLT5pbXBvcnQoJGNvbmZEaXIuJy97cm91dGVzfScuc2VsZjo6Q09ORklHX0VYVFMsICcvJywgJ2dsb2InKTsKICAgIC8vIH0K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gcmVnaXN0ZXJCdW5kbGVzKCk6IGl0ZXJhYmxlCiAgICB7CiAgICAgICAgJGNvbnRlbnRzID0gcmVxdWlyZSAkdGhpcy0+Z2V0UHJvamVjdERpcigpLicvY29uZmlnL2J1bmRsZXMucGhwJzsKICAgICAgICBmb3JlYWNoICgkY29udGVudHMgYXMgJGNsYXNzID0+ICRlbnZzKSB7CiAgICAgICAgICAgIGlmICgkZW52c1skdGhpcy0+ZW52aXJvbm1lbnRdID8/ICRlbnZzWydhbGwnXSA/PyBmYWxzZSkgewogICAgICAgICAgICAgICAgeWllbGQgbmV3ICRjbGFzcygpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9qZWN0RGlyKCk6IHN0cmluZwogICAgewogICAgICAgIHJldHVybiBcZGlybmFtZShfX0RJUl9fKTsKICAgIH0K</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>load
 load
 load
 load</text>
-      </register>
-      <register name="4" type="8">
-        <text>loader
-loader
-loader
-loader</text>
       </register>
       <register name="5" type="8">
         <text>loader
@@ -227,23 +234,23 @@ loader
 loader
 loader</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyLT5hZGRSZXNvdXJjZShuZXcgRmlsZVJlc291cmNlKCR0aGlzLT5nZXRQcm9qZWN0RGlyKCkuJy9jb25maWcvYnVuZGxlcy5waHAnKSk7CiAgICAgICAgJGNvbnRhaW5lci0+c2V0UGFyYW1ldGVyKCdjb250YWluZXIuZHVtcGVyLmlubGluZV9jbGFzc19sb2FkZXInLCBcUEhQX1ZFUlNJT05fSUQgPCA3MDQwMCB8fCAhaW5pX2dldCgnb3BjYWNoZS5wcmVsb2FkJykpOwogICAgICAgICRjb250YWluZXItPnNldFBhcmFtZXRlcignY29udGFpbmVyLmR1bXBlci5pbmxpbmVfZmFjdG9yaWVzJywgdHJ1ZSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyLT5hZGRSZXNvdXJjZShuZXcgRmlsZVJlc291cmNlKCR0aGlzLT5nZXRQcm9qZWN0RGlyKCkuJy9jb25maWcvYnVuZGxlcy5waHAnKSk7CiAgICAgICAgJGNvbnRhaW5lci0+c2V0UGFyYW1ldGVyKCdjb250YWluZXIuZHVtcGVyLmlubGluZV9jbGFzc19sb2FkZXInLCBcUEhQX1ZFUlNJT05fSUQgPCA3MDQwMCB8fCAhaW5pX2dldCgnb3BjYWNoZS5wcmVsb2FkJykpOwogICAgICAgICRjb250YWluZXItPnNldFBhcmFtZXRlcignY29udGFpbmVyLmR1bXBlci5pbmxpbmVfZmFjdG9yaWVzJywgdHJ1ZSk7Cg==</text>
-      </register>
-      <register name="8" type="8">
-        <text>load
-load
-load
-load</text>
-      </register>
-      <register name="9" type="8">
+      <register name="6" type="8">
         <text>loader
 loader
 loader
 loader</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyLT5hZGRSZXNvdXJjZShuZXcgRmlsZVJlc291cmNlKCR0aGlzLT5nZXRQcm9qZWN0RGlyKCkuJy9jb25maWcvYnVuZGxlcy5waHAnKSk7CiAgICAgICAgJGNvbnRhaW5lci0+c2V0UGFyYW1ldGVyKCdjb250YWluZXIuZHVtcGVyLmlubGluZV9jbGFzc19sb2FkZXInLCBcUEhQX1ZFUlNJT05fSUQgPCA3MDQwMCB8fCAhaW5pX2dldCgnb3BjYWNoZS5wcmVsb2FkJykpOwogICAgICAgICRjb250YWluZXItPnNldFBhcmFtZXRlcignY29udGFpbmVyLmR1bXBlci5pbmxpbmVfZmFjdG9yaWVzJywgdHJ1ZSk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyLT5hZGRSZXNvdXJjZShuZXcgRmlsZVJlc291cmNlKCR0aGlzLT5nZXRQcm9qZWN0RGlyKCkuJy9jb25maWcvYnVuZGxlcy5waHAnKSk7CiAgICAgICAgJGNvbnRhaW5lci0+c2V0UGFyYW1ldGVyKCdjb250YWluZXIuZHVtcGVyLmlubGluZV9jbGFzc19sb2FkZXInLCBcUEhQX1ZFUlNJT05fSUQgPCA3MDQwMCB8fCAhaW5pX2dldCgnb3BjYWNoZS5wcmVsb2FkJykpOwogICAgICAgICRjb250YWluZXItPnNldFBhcmFtZXRlcignY29udGFpbmVyLmR1bXBlci5pbmxpbmVfZmFjdG9yaWVzJywgdHJ1ZSk7Cg==</text>
+      </register>
+      <register name="9" type="8">
+        <text>load
+load
+load
+load</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -252,7 +259,10 @@ loader</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-dir>0</last-dir>
+      <last-search>error_log</last-search>
+      <last-offset />
+      <last-pattern>error_log</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
