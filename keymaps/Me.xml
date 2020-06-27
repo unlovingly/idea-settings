@@ -1,4 +1,5 @@
 <keymap version="1" name="Me" parent="$default">
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>

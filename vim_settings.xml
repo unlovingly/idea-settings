@@ -14,6 +14,7 @@
         <entry>qa</entry>
         <entry>wa</entry>
         <entry>e!</entry>
+        <entry>set paste</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -63,14 +64,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/postgres.public.merchandise" timestamp="1589112945812">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591108555438">
+      <file name="/Dummy.txt" timestamp="1593293026479">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="1" />
+      </file>
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/src/Migrations/Version20191210130308.php" timestamp="1593291666350">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="14" />
       </file>
       <file name="/console" timestamp="1591108511900">
         <mark key="[" line="0" column="0" />
@@ -112,15 +116,18 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="62" />
       </file>
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/src/Migrations/Version20200215201100.php" timestamp="1593291672991">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="14" />
+      </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/composer.json" timestamp="1590939291914">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="8" column="29" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="29" />
-        <mark key="^" line="8" column="30" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log_3.composerLog" timestamp="1589633811119">
-        <mark key="[" line="182" column="3" />
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="30" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="30" />
       </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/src/Kernel.php" timestamp="1590942287298">
         <mark key="[" line="33" column="0" />
@@ -128,21 +135,25 @@
         <mark key="." line="33" column="0" />
       </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/config/bundles.php" timestamp="1590863930278">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log_3.composerLog" timestamp="1589633811119">
+        <mark key="[" line="182" column="3" />
       </file>
       <file name="/a.sql" timestamp="1591108555419">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1589112945875">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/vendor/symfony/framework-bundle/Kernel/MicroKernelTrait.php" timestamp="1590941737433">
         <mark key="'" line="68" column="20" />
       </file>
-      <file name="/merchandise [postgres@arch.wsl]" timestamp="1589112945793">
-        <mark key="[" line="0" column="0" />
+      <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/config/packages/doctrine_migrations.yaml" timestamp="1593293005326">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="33" />
       </file>
       <file name="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/src/Price/Currency.php" timestamp="1589115094336">
         <mark key="[" line="8" column="23" />
@@ -194,6 +205,7 @@
       <jump line="13" column="40" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/php/php.ini" />
       <jump line="493" column="62" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/php/php.ini" />
       <jump line="502" column="39" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/php/php.ini" />
+      <jump line="7" column="0" filename="L:/home/u8y/documents/repositories/github.com/unlovingly/amalgamber/app/config/packages/doctrine_migrations.yaml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -201,11 +213,11 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3BhdGg6ICJwaHA6Ly9zdGRlcnIiCiAgICAgICAgICAgIHBhdGg6ICJwaHA6Ly9zdGRlcnIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>App</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>App</text>
       </register>
       <register name="/" type="4">
         <text>error_log</text>
@@ -214,43 +226,31 @@
         <text encoding="base64">ICAgICAgICAgICAgI3BhdGg6ICJwaHA6Ly9zdGRlcnIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3BhdGg6ICJwaHA6Ly9zdGRlcnIiCiAgICAgICAgICAgIHBhdGg6ICJwaHA6Ly9zdGRlcnIiCg==</text>
+        <text encoding="base64">ICAjIExpc3Qgb2YgbmFtZXNwYWNlL3BhdGggcGFpcnMgdG8gc2VhcmNoIGZvciBtaWdyYXRpb25zLCBhdCBsZWFzdCBvbmUgcmVxdWlyZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAvLyBwcm90ZWN0ZWQgZnVuY3Rpb24gY29uZmlndXJlUm91dGVzKFJvdXRlQ29sbGVjdGlvbkJ1aWxkZXIgJHJvdXRlcyk6IHZvaWQKICAgIC8vIHsKICAgIC8vICAgICAkY29uZkRpciA9ICR0aGlzLT5nZXRQcm9qZWN0RGlyKCkuJy9jb25maWcnOwoKICAgIC8vICAgICAkcm91dGVzLT5pbXBvcnQoJGNvbmZEaXIuJy97cm91dGVzfS8nLiR0aGlzLT5lbnZpcm9ubWVudC4nLyonLnNlbGY6OkNPTkZJR19FWFRTLCAnLycsICdnbG9iJyk7CiAgICAvLyAgICAgJHJvdXRlcy0+aW1wb3J0KCRjb25mRGlyLicve3JvdXRlc30vKicuc2VsZjo6Q09ORklHX0VYVFMsICcvJywgJ2dsb2InKTsKICAgIC8vICAgICAkcm91dGVzLT5pbXBvcnQoJGNvbmZEaXIuJy97cm91dGVzfScuc2VsZjo6Q09ORklHX0VYVFMsICcvJywgJ2dsb2InKTsKICAgIC8vIH0K</text>
+        <text encoding="base64">IyBjb25maWcvcGFja2FnZXMvZG9jdHJpbmVfbWlncmF0aW9ucy55YW1sCgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gcmVnaXN0ZXJCdW5kbGVzKCk6IGl0ZXJhYmxlCiAgICB7CiAgICAgICAgJGNvbnRlbnRzID0gcmVxdWlyZSAkdGhpcy0+Z2V0UHJvamVjdERpcigpLicvY29uZmlnL2J1bmRsZXMucGhwJzsKICAgICAgICBmb3JlYWNoICgkY29udGVudHMgYXMgJGNsYXNzID0+ICRlbnZzKSB7CiAgICAgICAgICAgIGlmICgkZW52c1skdGhpcy0+ZW52aXJvbm1lbnRdID8/ICRlbnZzWydhbGwnXSA/PyBmYWxzZSkgewogICAgICAgICAgICAgICAgeWllbGQgbmV3ICRjbGFzcygpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9qZWN0RGlyKCk6IHN0cmluZwogICAgewogICAgICAgIHJldHVybiBcZGlybmFtZShfX0RJUl9fKTsKICAgIH0K</text>
+        <text encoding="base64">CiAgIyBFbnRpdHkgbWFuYWdlciB0byB1c2UgZm9yIG1pZ3JhdGlvbnMuIFRoaXMgb3ZlcnJpZGVzIHRoZSAiY29ubmVjdGlvbiIgc2V0dGluZy4KICBlbTogZGVmYXVsdAo=</text>
       </register>
-      <register name="4" type="8">
-        <text>load
-load
-load
-load</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgc3RvcmFnZToKICAgICMgRGVmYXVsdCAoU1FMIHRhYmxlKSBtZXRhZGF0YSBzdG9yYWdlIGNvbmZpZ3VyYXRpb24KICAgIHRhYmxlX3N0b3JhZ2U6CiAgICAgIHRhYmxlX25hbWU6ICdkb2N0cmluZV9taWdyYXRpb25fdmVyc2lvbnMnCiAgICAgIHZlcnNpb25fY29sdW1uX25hbWU6ICd2ZXJzaW9uJwogICAgICB2ZXJzaW9uX2NvbHVtbl9sZW5ndGg6IDEwMjQKICAgICAgZXhlY3V0ZWRfYXRfY29sdW1uX25hbWU6ICdleGVjdXRlZF9hdCcKICAgICAgZXhlY3V0aW9uX3RpbWVfY29sdW1uX25hbWU6ICdleGVjdXRpb25fdGltZScKCiAgIyBQb3NzaWJsZSB2YWx1ZXM6ICJCWV9ZRUFSIiwgIkJZX1lFQVJfQU5EX01PTlRIIiwgZmFsc2UKICBvcmdhbml6ZV9taWdyYXRpb25zOiBmYWxzZQoKICAjIFJ1biBhbGwgbWlncmF0aW9ucyBpbiBhIHRyYW5zYWN0aW9uLgogIGFsbF9vcl9ub3RoaW5nOiBmYWxzZQoKICAjIEFkZHMgYW4gZXh0cmEgY2hlY2sgaW4gdGhlIGdlbmVyYXRlZCBtaWdyYXRpb25zIHRvIGVuc3VyZSB0aGF0IGlzIGV4ZWN1dGVkIG9uIHRoZSBzYW1lIGRhdGFiYXNlIHR5cGUuCiAgY2hlY2tfZGF0YWJhc2VfcGxhdGZvcm06IHRydWUK</text>
       </register>
-      <register name="5" type="8">
-        <text>loader
-loader
-loader
-loader</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAjIENvbm5lY3Rpb24gdG8gdXNlIGZvciB0aGUgbWlncmF0aW9ucwogIGNvbm5lY3Rpb246IGRlZmF1bHQKCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>loader
-loader
-loader
-loader</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgc2VydmljZXM6CiAgICAjIEN1c3RvbSBtaWdyYXRpb24gc29ydGluZyBzZXJ2aWNlIGlkCiAgICAnRG9jdHJpbmVcTWlncmF0aW9uc1xWZXJzaW9uXENvbXBhcmF0b3InOiB+CgogICAgIyBDdXN0b20gbWlncmF0aW9uIGNsYXNzZXMgZmFjdG9yeQogICAgJ0RvY3RyaW5lXE1pZ3JhdGlvbnNcVmVyc2lvblxNaWdyYXRpb25GYWN0b3J5JzogfgoKICBmYWN0b3JpZXM6CiAgICAjIEN1c3RvbSBtaWdyYXRpb24gc29ydGluZyBzZXJ2aWNlIGlkIHZpYSBjYWxsYWJsZXMgKE15Q2FsbGFibGVGYWN0b3J5IG11c3QgYmUgYSBjYWxsYWJsZSkKICAgICdEb2N0cmluZVxNaWdyYXRpb25zXFZlcnNpb25cQ29tcGFyYXRvcic6ICdNeUNhbGxhYmxlRmFjdG9yeScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyLT5hZGRSZXNvdXJjZShuZXcgRmlsZVJlc291cmNlKCR0aGlzLT5nZXRQcm9qZWN0RGlyKCkuJy9jb25maWcvYnVuZGxlcy5waHAnKSk7CiAgICAgICAgJGNvbnRhaW5lci0+c2V0UGFyYW1ldGVyKCdjb250YWluZXIuZHVtcGVyLmlubGluZV9jbGFzc19sb2FkZXInLCBcUEhQX1ZFUlNJT05fSUQgPCA3MDQwMCB8fCAhaW5pX2dldCgnb3BjYWNoZS5wcmVsb2FkJykpOwogICAgICAgICRjb250YWluZXItPnNldFBhcmFtZXRlcignY29udGFpbmVyLmR1bXBlci5pbmxpbmVfZmFjdG9yaWVzJywgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAjIFBhdGggdG8geW91ciBjdXN0b20gbWlncmF0aW9ucyB0ZW1wbGF0ZQogIGN1c3RvbV90ZW1wbGF0ZTogfgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGFpbmVyLT5hZGRSZXNvdXJjZShuZXcgRmlsZVJlc291cmNlKCR0aGlzLT5nZXRQcm9qZWN0RGlyKCkuJy9jb25maWcvYnVuZGxlcy5waHAnKSk7CiAgICAgICAgJGNvbnRhaW5lci0+c2V0UGFyYW1ldGVyKCdjb250YWluZXIuZHVtcGVyLmlubGluZV9jbGFzc19sb2FkZXInLCBcUEhQX1ZFUlNJT05fSUQgPCA3MDQwMCB8fCAhaW5pX2dldCgnb3BjYWNoZS5wcmVsb2FkJykpOwogICAgICAgICRjb250YWluZXItPnNldFBhcmFtZXRlcignY29udGFpbmVyLmR1bXBlci5pbmxpbmVfZmFjdG9yaWVzJywgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAjIExpc3Qgb2YgYWRkaXRpb25hbCBtaWdyYXRpb24gY2xhc3NlcyB0byBiZSBsb2FkZWQsIG9wdGlvbmFsCiAgbWlncmF0aW9uczoKICAgIC0gJ0FwcFxNaWdyYXRpb25zXFZlcnNpb24xMjMnCiAgICAtICdBcHBcTWlncmF0aW9uc1xWZXJzaW9uMTIzJwoK</text>
       </register>
-      <register name="9" type="8">
-        <text>load
-load
-load
-load</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICdBbm90aGVyQXBwXE1pZ3JhdGlvbnMnOiAnL3BhdGgvdG8vb3RoZXIvbWlncmF0aW9ucycKICAgICdTb21lQnVuZGxlXE1pZ3JhdGlvbnMnOiAnQFNvbWVCdW5kbGUvTWlncmF0aW9ucycK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
