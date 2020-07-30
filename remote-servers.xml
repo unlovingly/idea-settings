@@ -13,5 +13,8 @@
         </option>
       </configuration>
     </remote-server>
+    <remote-server name="Google App Engine" type="google-app-engine">
+      <configuration email="mail.address.is.unsteady@gmail.com" password-stored="true" />
+    </remote-server>
   </component>
 </application>
