@@ -92,6 +92,12 @@
           <executable-path>ubuntu2004.exe</executable-path>
           <presentable-name>Ubuntu 20.04</presentable-name>
         </descriptor>
+        <descriptor>
+            <id>ArchWSL</id>
+            <microsoft-id>Arch</microsoft-id>
+            <executable-path>C:/Users/unlovingly/Machines/Arch/Arch.exe</executable-path>
+            <presentable-name>Arch</presentable-name>
+        </descriptor>
       </set>
     </descriptors>
   </component>
