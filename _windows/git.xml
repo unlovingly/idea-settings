@@ -1,5 +1,6 @@
 <application>
   <component name="Git.Application.Settings">
+    <option name="myPathToGit" value="\\wsl$\Arch\usr\sbin\git" />
     <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="false" />
     <option name="USE_CREDENTIAL_HELPER" value="true" />
   </component>
