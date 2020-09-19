@@ -10,7 +10,6 @@
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="pom" type="XML" />
     </extensionMap>
   </component>
 </application>
