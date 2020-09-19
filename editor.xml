@@ -1,4 +1,8 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
+    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
+  </component>
   <component name="CodeInsightSettings">
     <option name="SHOW_PARAMETER_NAME_HINTS_ON_COMPLETION" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
@@ -9,6 +13,12 @@
   <component name="EditorSettings">
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_METHOD_BODY" value="true" />
+  </component>
+  <component name="SqlCodeCompletionSettings" INVERT_ON_ORDER="true">
+    <option name="invertOrderInOnClause" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />

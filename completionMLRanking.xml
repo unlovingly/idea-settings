@@ -4,7 +4,9 @@
     <option name="showDiff" value="true" />
     <option name="language2state">
       <map>
+        <entry key="Java" value="true" />
         <entry key="PHP" value="true" />
+        <entry key="Scala" value="true" />
       </map>
     </option>
   </component>
